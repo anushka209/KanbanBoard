@@ -75,7 +75,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
 
 - **Name:** Anushka Gupta
-- **Email:** [Anushkagupta.kg@gmail.com](mailto:anushkagupta.kg@gmail.com)
+- **Email:** [anushkagupta.kg@gmail.com](mailto:anushkagupta.kg@gmail.com)
 
 
 Enjoy using the Kanban Board application to manage your tasks efficiently!
